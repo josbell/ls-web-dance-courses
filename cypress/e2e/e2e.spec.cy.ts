@@ -1,3 +1,4 @@
+// @ts-ignore
 describe("landing page", () => {
   beforeEach(() => {
     // Cypress starts out with a blank slate for each test
